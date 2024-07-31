@@ -1,0 +1,7 @@
+{
+    "baseUrl": "https://web.superfrete.com",
+    "viewportWidth": 1366,
+    "viewportHeight": 768,
+    "defaultCommandTimeout": 10000
+  }
+  
